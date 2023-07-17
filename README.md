@@ -6,6 +6,8 @@ The playlist is available [here](https://youtube.com/playlist?list=PLkPmqqqh3wEn
 The following topics are covered in this course:
 
 ## 1. Introduction to Machine Learning
+- [The Intuition Behind Machine Learning](https://youtu.be/lSwSKOqqxpk)
+- 
 ## 2. Core ML Libraries (NumPy, Pandas, Matplotlib, Seaborn)
 ## 3. KNN Algorithm
 ## 4. Decision Tree

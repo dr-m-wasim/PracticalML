@@ -1,6 +1,8 @@
 # Practical Machine Learning in Urdu (Free YouTube Course)
 This course covers complete contents covered in an undergraduate program. It covers the course's theoretical and practical (in Python) aspects.
 
+*Prerequisites*: You should have prior programming experience in any popular programming language such as C++, C#, or Java.
+
 The playlist is available [here](https://youtube.com/playlist?list=PLkPmqqqh3wEnURRo9wAN5gfAHNU4SPiQo).
 
 The following topics are covered in this course:

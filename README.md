@@ -101,4 +101,10 @@ The following topics are covered in this course:
 - [Lab 37- Multiclass Classification for MNIST Fashion - 1](https://youtu.be/XeCXZUNhefk)
 - [Lab 38- Multiclass Classification for MNIST Fashion - 2](https://youtu.be/U9UA6XereHg)
 ## 11- Unsupervised Learning (Clustering)
-- To be updated in current week!
+- [Unsupervised Learning](https://youtu.be/64o67Wbauvo)
+- [K-means Clustering](https://youtu.be/pBpzQXJxHdw)
+- [Random Initialization Trap](https://youtu.be/fGDmm41Aut0)
+- [Choosing the Value of K](https://youtu.be/N0BhNjgw_E0)
+- [Lab 39- Clustering and Choosing the Value of K](https://youtu.be/FVfIivGlHds)
+
+Good Luck! :)
